@@ -1,5 +1,5 @@
 {
-  "name": "pschmitt's addon repository",
-  "url": "https://github.com/pschmitt/home-assistant-addons",
+  "name": "pschmitt's addon repository (AB fork)",
+  "url": "https://github.com/alexbichlmaier/pschmitt-ha-addons",
   "maintainer": "Philipp Schmitt <philipp@schmitt.co>"
 }
